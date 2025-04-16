@@ -51,7 +51,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/taylorwanyama/PCOS-Detection.git](https://github.com/taylorwanyama/PCOS-Detection-Project/blob/main/Predicting%20if%20a%20Patient%20has%20PCOS_final_1%20%20(1).ipynb)
+   git clone https://github.com/taylorwanyama/PCOS-Detection-Project/blob/main/Predicting%20if%20a%20Patient%20has%20PCOS_final_1%20%20(1).ipynb
    ```
 2. Open the Jupyter Notebook and run the cells sequentially.
 3. Modify parameters and visualize results for deeper analysis.
