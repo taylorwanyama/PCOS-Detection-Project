@@ -1,4 +1,4 @@
-# PCOS-Detection Using 3 Models
+
 # Detecting PCOS using Machine Learning
 
 ## Overview
@@ -58,4 +58,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 ## Author
 
-[Taylor Wanyama] 
+**Taylor Wanyama**  
+[LinkedIn Profile](https://www.linkedin.com/in/taylor-wanyama-421920271/)
+
