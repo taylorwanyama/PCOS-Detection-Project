@@ -3,7 +3,7 @@
 ## Overview
 
 Polycystic Ovary Syndrome (PCOS) is a hormonal condition affecting 5-10% of women of reproductive age. It is characterized by symptoms such as irregular periods, excessive hair growth, and ovarian cysts, which can significantly impact a woman's health and quality of life. Early detection is crucial for timely medical intervention.
-
+ 
 In this project, I aim to build and evaluate three machine learning models—Logistic Regression, Decision Tree Classifier, and Random Forest Classifier—to predict PCOS diagnosis (binary target: 0 for no PCOS and 1 for PCOS). These models were chosen for their suitability in binary classification tasks and their ability to provide interpretable and accurate predictions.
 
 The project will include hyperparameter tuning to optimize the models and identify the best-performing one. I will begin by importing the necessary libraries for data preprocessing, model building, and evaluation. This project holds real-world significance, as improving PCOS detection could help affected women receive timely medical care and support.
